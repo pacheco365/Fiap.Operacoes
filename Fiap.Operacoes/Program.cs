@@ -51,7 +51,7 @@ namespace Fiap.Operacoes
                 Console.WriteLine($"Ambos positivos? {ambosPositivos}");
                 Console.WriteLine($"Nenhum negativo é negativo? {nenhumNegativo}");
 
-                Console.WriteLine("\nDigite qlqr coisa pra sair");
+                Console.WriteLine("\nAperte para pra sair");
             }
             catch (Exception ex)
             {
